@@ -169,11 +169,10 @@ Then insert:
 
 ## 👨‍💻 Author
 
-**Mahantesh Ingale**
+**Mahantesh S Ingale**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Mahantesh2006
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
 
 ---
 
