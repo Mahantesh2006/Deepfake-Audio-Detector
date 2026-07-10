@@ -175,5 +175,3 @@ GitHub: https://github.com/Mahantesh2006
 
 
 ---
-
-Please consider giving 
