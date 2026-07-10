@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Gradio
+.gradio/
+
+# Dataset
+data/raw/
+data/processed/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
