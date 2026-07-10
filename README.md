@@ -176,6 +176,4 @@ GitHub: https://github.com/Mahantesh2006
 
 ---
 
-## ⭐ If you like this project
-
-Please consider giving it a ⭐ on GitHub.
+Please consider giving 
