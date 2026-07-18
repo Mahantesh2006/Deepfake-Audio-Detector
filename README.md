@@ -165,13 +165,5 @@ Then insert:
 - Add confidence graph
 - Support multiple languages
 
----
-
-## 👨‍💻 Author
-
-**Mahantesh S Ingale**
-
-GitHub: https://github.com/Mahantesh2006
-
 
 ---
